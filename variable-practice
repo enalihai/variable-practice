@@ -3,3 +3,9 @@
 address = "123 main st"
 price = "4.99"
 name = "luke"
+
+
+#Floats and Integers
+
+people = 2
+animal = 3
