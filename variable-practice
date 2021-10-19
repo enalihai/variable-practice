@@ -9,3 +9,9 @@ name = "luke"
 
 people = 2
 animal = 3
+
+#Boolean
+
+is_raining = true
+x = true
+y = false
