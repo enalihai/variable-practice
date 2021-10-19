@@ -19,3 +19,7 @@ y = false
 #Arrays
 
 dog_breeds = ['labrador', 'terrier', 'pug']
+
+#Hashes
+
+luke = {last_name: 'pascale', height: '6.1'}
