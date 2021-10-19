@@ -15,3 +15,7 @@ animal = 3
 is_raining = true
 x = true
 y = false
+
+#Arrays
+
+dog_breeds = ['labrador', 'terrier', 'pug']
